@@ -4,11 +4,11 @@
   </a>
   <h1 align="center">QuizAPP</h1>
   <p align="center">
-    <a href="https://github.com/joey66666/Leava/blob/master/README_en.md"><img src="https://img.shields.io/badge/doc-English-blue.svg?style=popout-square"></a>
+    <a href="https://github.com/joey66666/Leava/blob/master/README.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg?style=popout-square"></a>
     <a href="http://hits.dwyl.io/joey66666/quizapp" alt="hit count"><img src="http://hits.dwyl.io/joey66666/quizapp.svg" /></a> 
   </p>
   <p align="center">
-    基于Swift5和UIKit的问卷小App，包括数据持久化，图像存储与显示，自定义画板等功能 <br>
+    Quiz Application base on Swift5 &amp; UIKit, providing implements including data persistence, image storage, and drawer canvas. <br>
   </p>
 </p>
 
