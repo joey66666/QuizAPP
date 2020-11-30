@@ -8,7 +8,7 @@
     <a href="http://hits.dwyl.io/joey66666/quizapp" alt="hit count"><img src="http://hits.dwyl.io/joey66666/quizapp.svg" /></a> 
   </p>
   <p align="center">
-    Swift5问卷App，包含数据持久化，图像存储与显示，自定义画板与绘图等功能 <br>
+    Swift5问卷App，包含数据持久化，图像存储与显示，自定义画板与绘图等功能，适配暗色模式 <br>
   </p>
 </p>
 
