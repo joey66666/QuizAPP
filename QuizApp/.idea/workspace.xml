@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aab64fe1-9803-4a60-bbbd-3117d9434873" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/QuizApp/Controller/NumericalViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp/Controller/NumericalViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp/SceneDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp/SceneDelegate.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_A58BC687-0283-431F-AEB2-0CA417F19B61" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kY1WDPDNYfUksvu0fPLhJiB98G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.控制台字体" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuizApp" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="QuizApp" TARGET_NAME="QuizApp" CONFIG_NAME="Debug" SCHEME_NAME="QuizApp" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="QuizApp" RUN_TARGET_NAME="QuizApp" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab64fe1-9803-4a60-bbbd-3117d9434873" name="默认的" comment="" />
+      <created>1605862742856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605862742856</updated>
+      <workItem from="1605862744642" duration="253000" />
+      <workItem from="1605867971189" duration="164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605868102774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="419" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868102774" />
+    <state x="419" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862872421" />
+    <state width="1866" height="291" key="GridCell.Tab.0.bottom" timestamp="1605868135172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868135172" />
+    <state width="1866" height="268" key="GridCell.Tab.0.bottom/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862997877" />
+    <state width="1866" height="291" key="GridCell.Tab.0.center" timestamp="1605868135171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="291" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868135171" />
+    <state width="1866" height="268" key="GridCell.Tab.0.center/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862997876" />
+    <state width="1866" height="291" key="GridCell.Tab.0.left" timestamp="1605868135170">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="291" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868135170" />
+    <state width="1866" height="268" key="GridCell.Tab.0.left/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862997876" />
+    <state width="1866" height="291" key="GridCell.Tab.0.right" timestamp="1605868135171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="291" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868135171" />
+    <state width="1866" height="268" key="GridCell.Tab.0.right/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862997877" />
+    <state x="433" y="62" key="SettingsEditor" timestamp="1605868122269">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="433" y="62" key="SettingsEditor/0.0.1920.1080/1920.-437.1080.1897@0.0.1920.1080" timestamp="1605868122269" />
+    <state x="433" y="62" key="SettingsEditor/0.0.1920.1080/1920.-460.1080.1920@0.0.1920.1080" timestamp="1605868008919" />
+    <state x="364" y="87" key="SettingsEditor/0.23.1920.1032/1920.-437.1080.1897@0.23.1920.1032" timestamp="1605862953916" />
+  </component>
+</project>
