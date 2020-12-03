@@ -4,8 +4,13 @@
   </a>
   <h1 align="center">QuizAPP</h1>
   <p align="center">
-    <a href="https://github.com/joey66666/quizapp/blob/master/README_en.md"><img src="https://img.shields.io/badge/doc-English-blue.svg?style=popout-square"></a>
-    <a href="http://hits.dwyl.io/joey66666/quizapp" alt="hit count"><img src="http://hits.dwyl.io/joey66666/quizapp.svg" /></a> 
+    <a href="https://github.com/joey66666/quizapp/blob/master/README_en.md"><img src="https://img.shields.io/badge/Doc-English-blue.svg?style=popout-square"></a>
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/language-swift-orange?style=flat-square"></a>
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/platform-iOS%20%7C%20iPad%20OS-red?style=flat-square"></a>
+    <a href="http://hits.dwyl.io/joey66666/QuizAPP" alt="hit count"><img src="http://hits.dwyl.io/joey66666/QuizAPP.svg" /></a> 
+    <a href="https://github.com/joey66666/QuizAPP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/joey66666/quizapp?style=flat-square&color=ff69b4"></a>
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/github/repo-size/joey66666/quizapp?style=flat-square&color=blueviolet"></a>
+    
   </p>
   <p align="center">
     Swift5问卷App，包含数据持久化，图像存储与显示，自定义画板与绘图等功能，适配暗色模式 <br>

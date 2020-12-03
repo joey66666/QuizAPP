@@ -5,7 +5,11 @@
   <h1 align="center">QuizAPP</h1>
   <p align="center">
     <a href="https://github.com/joey66666/quizapp/blob/master/README.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg?style=popout-square"></a>
-    <a href="https://github.com/joey66666/quizapp" alt="hit count"><img src="http://hits.dwyl.com/joey66666/quizapp.svg" /></a> 
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/language-swift-orange?style=flat-square"></a>
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/platform-iOS%20%7C%20iPad%20OS-red?style=flat-square"></a>
+    <a href="http://hits.dwyl.io/joey66666/quizapp" alt="hit count"><img src="http://hits.dwyl.io/joey66666/quizapp.svg" /></a> 
+    <a href="https://github.com/joey66666/QuizAPP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/joey66666/quizapp?style=flat-square&color=ff69b4"></a>
+    <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/github/repo-size/joey66666/quizapp?style=flat-square&color=blueviolet"></a>
   </p>
   <p align="center">
     Quiz Application base on Swift5 &amp; UIKit, providing implements including data persistence, image storage, and drawer canvas. <br>
