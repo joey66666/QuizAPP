@@ -57,4 +57,4 @@
 - When the number of incorrect and correct answers are the same, the background is clear. 
 
 
-Adapt to dark mode except the draw view.
+**Adapt to dark mode except the draw view.**
