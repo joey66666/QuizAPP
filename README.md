@@ -7,7 +7,8 @@
     <a href="https://github.com/joey66666/quizapp/blob/master/README_en.md"><img src="https://img.shields.io/badge/Doc-English-blue.svg?style=popout-square"></a>
     <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/language-swift-orange?style=flat-square"></a>
     <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/platform-iOS%20%7C%20iPad%20OS-red?style=flat-square"></a>
-    <a href="http://hits.dwyl.io/joey66666/QuizAPP" alt="hit count"><img src="http://hits.dwyl.io/joey66666/QuizAPP.svg" /></a> 
+    <a title="Hits" target="_blank" href="https://github.com/joey66666/quizapp"><img src="https://hits.b3log.org/joey66666/quizapp.svg"></a>
+<!--     <a href="http://hits.dwyl.io/joey66666/QuizAPP" alt="hit count"><img src="http://hits.dwyl.io/joey66666/QuizAPP.svg" /></a>  -->
     <a href="https://github.com/joey66666/QuizAPP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/joey66666/quizapp?style=flat-square&color=ff69b4"></a>
     <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/github/languages/code-size/joey66666/quizapp?style=flat-square&color=blueviolet"></a>
     
