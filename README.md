@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">QuizAPP</h1>
   <p align="center">
-    <a href="https://github.com/joey66666/quizapp/blob/master/README_en.md"><img src="https://img.shields.io/badge/Doc-English-blue.svg?style=popout-square"></a>
+    <a href="https://github.com/joey66666/quizapp/blob/main/README_en.md"><img src="https://img.shields.io/badge/Doc-English-blue.svg?style=popout-square"></a>
     <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/language-swift-orange?style=flat-square"></a>
     <a href="https://github.com/joey66666/quizapp"><img src="https://img.shields.io/badge/platform-iOS%20%7C%20iPad%20OS-red?style=flat-square"></a>
     <a title="Hits" target="_blank" href="https://github.com/joey66666/quizapp"><img src="https://hits.b3log.org/joey66666/quizapp.svg"></a>
