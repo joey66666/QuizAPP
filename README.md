@@ -16,7 +16,7 @@
   </p>
 </p>
 
-**中文版 | [English](#QuizApp)**
+**中文版 | [English](#View)**
 
 ![light](https://raw.githubusercontent.com/joey66666/ImgHost/main/img/20201130180241.png)
 
